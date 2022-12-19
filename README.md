@@ -5,3 +5,6 @@ This repository contains equations, definitions and codes regarding the chaos th
 Currently:
 - Lorenz attractor: **lorenz.m, lorenzcode.m**
 - Mandelbrot set: **mandelbrot.m**
+
+To do:
+- Tutorials, courses and codes about nonlinear dynamical systems will be added
